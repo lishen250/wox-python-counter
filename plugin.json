@@ -1,0 +1,12 @@
+{
+    "ID":"2f4e384e-76ce-45c3-aea2-b16f5e5c3291",
+    "ActionKeyword":"ct",
+    "Name":"wox Python counter",
+    "Description":"a simple counter on the run",
+    "Author":"shen li",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"https://github.com/lishen250/wox-python-counter",
+    "IcoPath":"Images\\smile.png",
+    "ExecuteFileName":"main.py"
+}
